@@ -1,0 +1,16 @@
+{
+	"name": "tHealth",
+	"plugin-id": "Text",
+	"sid": 119914641330286,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 688030625679314
+		}
+	],
+	"effectTypes": []
+}

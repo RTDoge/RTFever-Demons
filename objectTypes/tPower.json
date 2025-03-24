@@ -1,0 +1,16 @@
+{
+	"name": "tPower",
+	"plugin-id": "Text",
+	"sid": 954316215975205,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 796346497124901
+		}
+	],
+	"effectTypes": []
+}

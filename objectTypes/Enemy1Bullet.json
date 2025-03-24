@@ -1,0 +1,139 @@
+{
+	"name": "Enemy1Bullet",
+	"plugin-id": "Sprite",
+	"sid": 968355075619034,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 331134702851070
+		},
+		{
+			"behaviorId": "destroy",
+			"name": "DestroyOutsideLayout",
+			"sid": 699047861660975
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 10,
+						"height": 10,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 8844904,
+						"collisionPoly": {
+							"points": [
+								0.1,
+								0.1,
+								0.2,
+								0.1,
+								0.6,
+								0.5,
+								0.6,
+								0.6,
+								0.2,
+								0.9,
+								0.1,
+								0.9,
+								0,
+								0.8,
+								0,
+								0.2
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 10,
+						"height": 10,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 7557115,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.4,
+								0,
+								0.6,
+								0.1,
+								1,
+								0.5,
+								1,
+								0.6,
+								0.6,
+								0.9,
+								0.4,
+								1,
+								0,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 10,
+						"height": 10,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 4359984,
+						"collisionPoly": {
+							"points": [
+								0.1,
+								0,
+								0.3,
+								0,
+								1,
+								0.5,
+								1,
+								0.6,
+								0.3,
+								1,
+								0.1,
+								1,
+								0,
+								0.9,
+								0,
+								0.1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 454411157035441,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 12
+			}
+		],
+		"subfolders": []
+	}
+}

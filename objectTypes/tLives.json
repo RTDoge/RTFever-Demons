@@ -1,0 +1,16 @@
+{
+	"name": "tLives",
+	"plugin-id": "Text",
+	"sid": 561101197521923,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 766063837525951
+		}
+	],
+	"effectTypes": []
+}

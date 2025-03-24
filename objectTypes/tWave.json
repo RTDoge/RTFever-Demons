@@ -1,0 +1,16 @@
+{
+	"name": "tWave",
+	"plugin-id": "Text",
+	"sid": 397316931557307,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 766030604905687
+		}
+	],
+	"effectTypes": []
+}

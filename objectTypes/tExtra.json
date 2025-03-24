@@ -1,0 +1,26 @@
+{
+	"name": "tExtra",
+	"plugin-id": "Text",
+	"sid": 240325519718446,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 999710693915550
+		},
+		{
+			"behaviorId": "Flash",
+			"name": "Flash",
+			"sid": 963625493246934
+		},
+		{
+			"behaviorId": "Sin",
+			"name": "Sine",
+			"sid": 627906763120983
+		}
+	],
+	"effectTypes": []
+}

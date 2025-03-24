@@ -1,0 +1,16 @@
+{
+	"name": "tScore",
+	"plugin-id": "Text",
+	"sid": 776677382776684,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 182716988202363
+		}
+	],
+	"effectTypes": []
+}
